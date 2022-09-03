@@ -81,7 +81,7 @@ El 20% restante se calcula según el puntaje obtenido en la implementación del 
 | Implementación de un tercer algoritmo de libre elección, descripción de la forma como trabaja el algoritmo seleccionado y de las decisiones más importantes asociadas con la implementación del algoritmo y la selección de hiperparametros. Debe incluir el nombre del estudiante responsable de este entregable | 12% |
 | Tablero de control utilizado para el entendimiento de datos (perfilamiento y análisis de calidad)| 10% |
 | Análisis de los resultados obtenidos y justificación del modelo recomendado para el caso propuesto | 16% |
-| Resultado de la ejecución por parte de los monitores con un conjunto de datos no compartido | 8% |
+| Resultado de la ejecución del modelo con el conjunto de datos anexo, que no contiene etiqueta, utilizando el csv entregado  | 8% |
 | Presentación para SaludAlpes con resultados y recomendaciones dadas a la empresa y video corto de uso del tablero para la fase de entendimiento de datos| 8% |
 | Notebook asociado, ejecutado y con el modelo almacenado| 5% |
   
